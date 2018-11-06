@@ -1,0 +1,6 @@
+parent: zKid
+name: child_zKid
+display_name: Child theme of zKid's theme
+version: 1.0.0
+assets:
+  use_parent_assets: false
